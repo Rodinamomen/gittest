@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
 
         var name="Rodina "
         var name2="momen"
+        var name3="mobark"
     }
 }
